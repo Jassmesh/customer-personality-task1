@@ -28,6 +28,7 @@ Clean and prepare the raw Customer Personality Analysis dataset by handling:
 8. Saved the final cleaned dataset to `cleaned_marketing_campaign.csv`.
 
 ## 📁 Files Included
+- `marketing_campaign.csv` – Raw dataset (original data from Kaggle)
 - `CustomerPersonalityanalysisDataCleaning.ipynb` – Colab notebook with all steps
 - `cleaned_marketing_campaign.csv` – Final cleaned dataset
 - `README.md` – Summary of work
